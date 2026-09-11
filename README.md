@@ -19,7 +19,7 @@ I enjoy building applications, working with databases, exploring system architec
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=java,python,cpp,js,react,postgres,mysql,git,github,linux,vscode" /> </p>
 
-📌 Featured Projects]<p/>
+📌 Featured Projects <p/>
 🍔 FEIFood
 
 A food ordering system developed with Java, PostgreSQL and Maven, following MVC + DAO architecture. The project includes authentication, shopping cart, orders, order history and database persistence.
