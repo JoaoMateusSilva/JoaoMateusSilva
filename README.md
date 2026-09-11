@@ -1,64 +1,130 @@
-Hi there! 👋 I'm João Mateus
+# Hi there! 👋 I'm João Mateus
 
-🎓 Computer Science Student at FEI
-💻 Developer | IT Assistant | Process Automation
+🎓 **Computer Science Student at FEI**  
+💻 **Aspiring Backend Developer | Cloud & Software Engineering Enthusiast**  
+📍 **São Bernardo do Campo, São Paulo, Brazil**  
+🏢 **IT Assistant Intern | Process Automation at Mercedes-Benz Trucks & Buses**
 
-I'm a Computer Science student passionate about software development, backend engineering, cloud computing, and process automation.
+I'm a Computer Science student passionate about **software development, backend engineering, cloud computing, and process automation**.
 
 I enjoy building applications, working with databases, exploring system architecture, and learning how scalable and reliable systems are designed.
 
-🚀 About Me
-🎓 Computer Science student at FEI
-💻 IT Assistant with experience in process automation
-🖥️ Interested in Backend Development
-☁️ Interested in Cloud Computing & Cloud Architecture
-🗄️ Interested in Databases and Data Management
-🌱 Currently expanding my knowledge in software engineering and cloud technologies
-⚡ Always looking for new challenges and opportunities to build things
-🛠️ Technologies & Tools
+---
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=java,python,cpp,js,react,postgres,mysql,git,github,linux,vscode" /> </p>
+## 🚀 About Me
 
-📌 Featured Projects <p/>
-🍔 FEIFood
+- 🎓 Studying **Computer Science at FEI**
+- 🏢 Working as an **IT Assistant Intern | Process Automation at Mercedes-Benz Trucks & Buses**
+- 📍 Based in **São Bernardo do Campo, São Paulo, Brazil**
+- 🖥️ Interested in **Backend Development**
+- ☁️ Interested in **Cloud Computing & Cloud Architecture**
+- 🗄️ Interested in **Databases & Data Management**
+- 🔄 Experienced in **Process Automation, Service Desk, Cybersecurity, ERP (TOTVS), Inventory & Fiscal Document Management**
+- 🌱 Currently expanding my knowledge in **Software Engineering & Cloud Technologies**
+- ⚡ Always looking for new challenges and opportunities to build things
 
-A food ordering system developed with Java, PostgreSQL and Maven, following MVC + DAO architecture. The project includes authentication, shopping cart, orders, order history and database persistence.
+---
 
-Tech: Java PostgreSQL JDBC Maven MVC DAO
+## 🛠️ Technologies & Tools
 
-📱 FallenTap — Mobile Applications
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,react,postgres,mysql,git,github,linux,docker,vscode" />
+</p>
 
-A mobile reflex game developed with React Native and Expo, featuring navigation, local data storage, rankings and haptic feedback.
+---
+## 📚 Currently Learning
 
-Tech: React Native Expo JavaScript AsyncStorage
+- ☕ **Java & Spring Boot** — Backend development and REST APIs
+- 🐳 **Docker** — Containerization and application deployment
+- ☁️ **Cloud Computing** — Cloud infrastructure and architecture
+- 🗄️ **Databases** — Database design, optimization and performance
+- 🔗 **REST APIs** — Building and integrating backend services
+- ⚙️ **Software Engineering** — Architecture, design patterns and scalable systems
 
-🌐 IoT Project
+---
+## 📌 Featured Projects
 
-An academic project focused on Internet of Things (IoT), exploring the integration between software, devices and connected systems.
+### 🍔 FEIFood
 
-Tech: IoT Programming Embedded Systems
+A food ordering system developed with **Java, PostgreSQL and Maven**, following **MVC + DAO architecture**.
 
-🍹 DrinkDex — Performance & Data Tuning
+The project includes authentication, shopping cart, orders, order history and database persistence.
 
-A project focused on database performance and data tuning, exploring techniques for improving data management and application performance.
+**Tech:** `Java` `PostgreSQL` `JDBC` `Maven` `MVC` `DAO`
 
-Focus: Databases Performance Data Tuning
+🔗 [View Repository](https://github.com/JoaoMateusSilva/FEIFood)
 
-🎯 Areas of Interest
-Backend Development     ████████████████████
-Cloud Computing         ██████████████████░░
-Databases               ██████████████████░░
-Software Engineering    ████████████████░░░░
-Process Automation      █████████████░░░░░░░
-IoT                     ████████████████░░░░
-📊 GitHub Stats
+---
 
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoMateusSilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMateusSilva&layout=compact&theme=tokyonight"/> </p>
+### 📱 FallenTap — Mobile Applications
 
-🔥 GitHub Streak
+A mobile reflex game developed with **React Native and Expo**, featuring navigation, local data storage, rankings and haptic feedback.
 
-<p align="center"> <img src="https://streak-stats.demolab.com?user=JoaoMateusSilva&theme=tokyonight" /> </p>
+**Tech:** `React Native` `Expo` `JavaScript` `AsyncStorage`
 
-📫 Let's Connect
+🔗 [View Repository](https://github.com/JoaoMateusSilva/AplicativosMoveis)
 
-<p align="left"> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/JoaoMateusSilva"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+---
+
+### 🌐 IoT Project
+
+An academic project focused on **Internet of Things (IoT)**, exploring the integration between software, devices and connected systems.
+
+**Tech:** `IoT` `Programming` `Embedded Systems`
+
+🔗 [View Repository](https://github.com/Herondsx/Projeto_IOT)
+
+---
+
+### 🍹 DrinkDex — Performance & Data Tuning
+
+A project focused on **database performance and data tuning**, exploring techniques for improving data management and application performance.
+
+**Focus:** `Databases` `Performance` `Data Tuning`
+
+🔗 [View Repository](https://github.com/Herondsx/drinkdex-performance-e-tunning-de-dados)
+
+---
+
+## 🎯 Areas of Interest
+
+- 🖥️ **Backend Development**
+- ☁️ **Cloud Computing & Cloud Architecture**
+- 🗄️ **Databases & Data Management**
+- ⚙️ **Software Engineering**
+- 🔄 **Process Automation**
+- 🌐 **Internet of Things**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoMateusSilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMateusSilva&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JoaoMateusSilva&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-mateus-escaramal-799393341/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/JoaoMateusSilva">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐ **Thanks for visiting my profile!**
