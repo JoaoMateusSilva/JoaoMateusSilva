@@ -97,15 +97,6 @@ A project focused on **database performance and data tuning**, exploring techniq
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoMateusSilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMateusSilva&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -126,5 +117,3 @@ A project focused on **database performance and data tuning**, exploring techniq
 </p>
 
 ---
-
-⭐ **Thanks for visiting my profile!**
